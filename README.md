@@ -3,7 +3,17 @@
 My name is [Olivier Verdier](https://www.olivierverdier.com).
 
 - ❤️ Passionate about math, coding and large language models (AI).
-- 💙 Other interests: machine learning, deep learning, statistical inference, renewable energy, Rubiks cube solving, go problems, financial engineering, languages.
+- 💙 Other interests:
+  - math
+     - machine learning
+     - deep learning
+     - statistical inference
+     - financial engineering
+  - renewable energy
+  - puzzles
+     - Rubiks cube solving
+     - go problems
+  - languages
 
 - 🏠: 🇪🇺
 - 💬
